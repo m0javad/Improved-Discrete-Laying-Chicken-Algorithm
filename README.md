@@ -15,5 +15,3 @@ neighbor (KNN), Naïve Bayes (NB), and support vector machine (SVM) on five
 benchmark datasets with three different evaluation metrics. The experimental results
 demonstrate the proposed algorithm's effectiveness compared to the existing
 one.
-/n
-We complete the code after the publication of the Article

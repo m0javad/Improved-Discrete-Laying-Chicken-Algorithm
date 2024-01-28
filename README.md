@@ -16,4 +16,6 @@ benchmark datasets with three different evaluation metrics. The experimental res
 demonstrate the proposed algorithm's effectiveness compared to the existing
 one.
 
->> <p> **Complete clear code will be shared after the publication of the article**</p>
+How to cite this article?! 
+Daneshfar, F., & Aghajani, M. J. (2024). Enhanced text classification through an improved discrete laying chicken 
+algorithm. Expert Systems, e13553. https://doi.org/10.1111/exsy.13553
